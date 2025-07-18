@@ -1,11 +1,11 @@
 # QA Engineer Portfolio - Siti Mardiah
 
 ## About Me
-Siti Mardiah is a dedicated QA Engineer with over 5 years of experience in software testing, specializing in manual testing, automation testing, and API testing. With a background in software development (Java, PHP, and Power Builder), I bring a unique perspective to quality assurance, ensuring robust testing processes and high-quality software delivery. Proficient in tools like Katalon Studio, Postman, and Jira, I have worked on diverse projects in fintech, e-commerce, and logistics. My goal is to enhance product reliability through meticulous testing and collaboration with cross-functional teams.
+Siti Mardiah is a dedicated QA Engineer with over 5 years of experience in software testing, specializing in manual testing, automation testing, and API testing. With a background in software development (Java, PHP, and Power Builder), I bring a unique perspective to quality assurance, ensuring robust testing processes and high-quality software delivery. Proficient in tools like Katalon Studio, Postman, and Jira, I have worked on diverse projects in Fintech, Procurement, Payment Services, and Logistics. My goal is to enhance product reliability through meticulous testing and collaboration with cross-functional teams.
 
 ## Skills
-- **Testing Tools**: Katalon Studio, Postman, Jira, TestRail (implied from SIT/UAT experience)
-- **Programming**: Java, JavaScript, PHP, Power Builder
+- **Testing Tools**: Katalon Studio, Postman, Jira, TestRail, Trello
+- **Programming**: Java, JavaScript, PHP, Power Builder, Ruby
 - **Web Technologies**: HTML, CSS, jQuery
 - **Databases**: MySQL, Oracle
 - **Version Control**: GitHub, BitBucket, GitLab
@@ -16,18 +16,17 @@ Siti Mardiah is a dedicated QA Engineer with over 5 years of experience in softw
 ## Projects
 
 ### Project 1: Manual and Automation Testing for Logistics Application
-**Company**: Technology Company (Feb 2025 - Present)  
+**Company**: PT Rembon Karya Digital (Feb 2025 - Present)  
 **Description**:  
 Conducted quality assurance for a logistics management application, focusing on ensuring reliable shipment tracking and user management features.  
 **Role**:  
 - Created 30+ test scenarios and test cases for manual testing of web-based features.  
-- Documented and tracked bugs using Jira, ensuring timely resolution.  
+- Documented and tracked bugs using Trello, ensuring timely resolution.  
 - Explored automation testing with Katalon Studio for regression testing.  
-**Tools**: Katalon Studio, Jira, Microsoft Office  
+**Tools**: Katalon Studio, Trello, Microsoft Office  
 **Results**:  
-- Identified 10 critical bugs, improving application stability by 15%.  
-- Reduced manual testing time by 20% through initial automation scripts.  
-**Artefak**: [Test Case Sample](#test-case-sample), [Bug Report Sample](#bug-report-sample)
+- Identified and reported 17 live bugs post-deployment, contributing to improved system stability.
+- Initiated automation framework using Katalon Studio, setting the foundation for scalable test scripts in future sprints.
 
 ### Project 2: API and Manual Testing for Communication Platform
 **Company**: Technology Company (Oct 2023 - Mar 2024)  
