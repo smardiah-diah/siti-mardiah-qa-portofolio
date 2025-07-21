@@ -28,8 +28,8 @@ Conducted quality assurance for a logistics management application, focusing on 
 - Identified and reported 17 live bugs post-deployment, contributing to improved system stability.
 - Initiated automation framework using Katalon Studio, setting the foundation for scalable test scripts in future sprints.
 
-### Project 2: API and Manual Testing for Communication Platform
-**Company**: Technology Company (Oct 2023 - Mar 2024)  
+### Project 2: API and Manual Testing for Payment Services
+**Company**: PT Alto Network (Oct 2023 - Mar 2024)  
 **Description**:  
 Tested a communication platform’s API endpoints and user interface to ensure seamless messaging and transaction features.  
 **Role**:  
@@ -39,21 +39,21 @@ Tested a communication platform’s API endpoints and user interface to ensure s
 **Tools**: Postman, MobaXterm, Jira  
 **Results**:  
 - Detected and resolved 8 API-related bugs, ensuring 100% endpoint reliability.  
-- Streamlined UAT process, reducing feedback cycles by 25%.  
+- Streamlined UAT process  
 **Artefak**: [Postman Collection Sample](#postman-collection-sample)
 
 ### Project 3: Automation Testing for Fintech Payment System
-**Company**: Banking Institution (Dec 2020 - Sep 2023)  
+**Company**: PT Amar Bank Indonesia (Dec 2020 - Sep 2023)  
 **Description**:  
 Ensured the quality of a payment system supporting installment and early payment features for a web-based banking platform.  
 **Role**:  
 - Designed 50+ test cases for manual testing, including regression and A/B testing.  
 - Developed automation scripts with Katalon Studio for web UI testing.  
 - Conducted API testing with Postman to validate payment transactions.  
-**Tools**: Katalon Studio, Postman, Jira  
+**Tools**: Katalon Studio, Postman, Jira, Testrail
 **Results**:  
-- Automated 40% of regression test cases, saving 15 hours per testing cycle.  
-- Reduced payment processing errors by 20% through rigorous testing.  
+- Automated 100% of regression test cases, saving 15 hours per testing cycle.  
+- Reduced payment processing errors.  
 **Artefak**: [Test Case Sample](#test-case-sample)
 
 ### Project 4: Manual Testing and User Training for Enterprise Application
@@ -93,7 +93,7 @@ Tested an enterprise application for internal business processes, ensuring funct
 **Attachment**: [Screenshot](#) (dummy link)  
 
 ### Postman Collection Sample
-**Collection Name**: API Testing for Communication Platform  
+**Collection Name**: API Testing for Payment Services  
 **Request Example**:  
 - **Method**: GET  
 - **Endpoint**: `/messages`  
