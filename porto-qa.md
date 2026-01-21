@@ -90,6 +90,27 @@ Tested an enterprise application for internal business processes, ensuring funct
 **Environment**: Web, Chrome v120  
 **Attachment**: [Screenshot](#)
 
+## Automation Testing Portfolio
+
+### Web Automation – Saucedemo
+**Tool**: Katalon Studio  
+**Repository**:  
+👉 https://github.com/siti-mardiah/katalon-saucedemo-automation
+
+**Covered Scenarios**:
+- Login (Valid & Invalid)
+- Add to Cart
+- Checkout
+
+**Approach**:
+- Page-based test cases
+- Reusable login flow
+- Smoke test suite for regression
+
+**Artifacts**:
+- Test Suite execution report
+- Automation scripts
+
 ### Postman Collection Sample
 **Collection Name**: API Testing for Communication Platform  
 **Request Example**:  
