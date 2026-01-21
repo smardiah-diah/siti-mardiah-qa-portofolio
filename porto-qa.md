@@ -95,7 +95,7 @@ Tested an enterprise application for internal business processes, ensuring funct
 ### Web Automation – Saucedemo
 **Tool**: Katalon Studio  
 **Repository**:  
-👉 https://github.com/siti-mardiah/katalon-saucedemo-automation
+👉 [https://github.com/siti-mardiah/katalon-saucedemo-automation](https://github.com/smardiah-diah/katalon-saucedemo-automation)
 
 **Covered Scenarios**:
 - Login (Valid & Invalid)
