@@ -16,53 +16,54 @@ Siti Mardiah is a dedicated QA Engineer with over 5 years of experience in softw
 ## Projects
 
 ### Project 1: Manual and Automation Testing for Logistics Application
-**Company**: Technology Company (Feb 2025 - Present)  
+**Company**: PT Rembon Karya Digita (Feb 2025 - Dec 2025)  
 **Description**:  
 Conducted quality assurance for a logistics management application, focusing on ensuring reliable shipment tracking and user management features.  
 **Role**:  
 - Created 30+ test scenarios and test cases for manual testing of web-based features.  
 - Documented and tracked bugs using Jira, ensuring timely resolution.  
-- Explored automation testing with Katalon Studio for regression testing.  
-**Tools**: Katalon Studio, Jira, Microsoft Office  
+- Explored automation testing with Katalon Studio for regression testing.
+- Stress Test with JMeter
+**Tools**: Katalon Studio, JMeter, Microsoft Office  
 **Results**:  
 - Identified 10 critical bugs, improving application stability by 15%.  
 - Reduced manual testing time by 20% through initial automation scripts.  
 
 ### Project 2: API and Manual Testing for Communication Platform
-**Company**: Technology Company (Oct 2023 - Mar 2024)  
+**Company**: Alto Network (Oct 2023 - Mar 2024)  
 **Description**:  
 Tested a communication platform’s API endpoints and user interface to ensure seamless messaging and transaction features.  
 **Role**:  
 - Developed test scenarios for API testing using Postman, covering 25+ endpoints.  
 - Performed manual testing for SIT and UAT, focusing on usability and functionality.  
 - Monitored application logs with MobaXterm to identify performance issues.  
-**Tools**: Postman, MobaXterm, Jira  
+**Tools**: Postman, MobaXterm, Jira, XRay, DBeaver
 **Results**:  
 - Detected and resolved 8 API-related bugs, ensuring 100% endpoint reliability.  
 - Streamlined UAT process, reducing feedback cycles by 25%.  
 
 ### Project 3: Automation Testing for Fintech Payment System
-**Company**: Banking Institution (Dec 2020 - Sep 2023)  
+**Company**: Amar Bank (Dec 2020 - Sep 2023)  
 **Description**:  
 Ensured the quality of a payment system supporting installment and early payment features for a web-based banking platform.  
 **Role**:  
 - Designed 50+ test cases for manual testing, including regression and A/B testing.  
 - Developed automation scripts with Katalon Studio for web UI testing.  
 - Conducted API testing with Postman to validate payment transactions.  
-**Tools**: Katalon Studio, Postman, Jira  
+**Tools**: Katalon Studio, Postman, Jira, TestRail, Microsoft Office, Confluence
 **Results**:  
 - Automated 40% of regression test cases, saving 15 hours per testing cycle.  
 - Reduced payment processing errors by 20% through rigorous testing.  
 
 ### Project 4: Manual Testing and User Training for Enterprise Application
-**Company**: IT Solutions Company (May 2019 - Sep 2020)  
+**Company**: PT Mitra Mandiri Informatika (May 2019 - Sep 2020)  
 **Description**:  
 Tested an enterprise application for internal business processes, ensuring functionality and user readiness.  
 **Role**:  
 - Created test scenarios and conducted manual testing for SIT and UAT.  
 - Trained end-users on application features, improving adoption rates.  
 - Explored automation testing with Katalon Studio and Jenkins.  
-**Tools**: Katalon Studio, Jenkins, Jira  
+**Tools**: Katalon Studio, Jenkins, Redmine, Microsoft Office  
 **Results**:  
 - Achieved 95% test coverage for critical features.  
 - Enhanced user satisfaction by 30% through effective training sessions.  
@@ -72,8 +73,8 @@ Tested an enterprise application for internal business processes, ensuring funct
 ### Test Case Sample
 | ID | Scenario | Steps | Expected Result | Status |
 |----|----------|-------|-----------------|--------|
-| TC01 | Verify user login with valid credentials | 1. Navigate to login page. 2. Enter valid username and password. 3. Click Login. | User is redirected to dashboard. | Pass |
-| TC02 | Verify user login with invalid password | 1. Navigate to login page. 2. Enter valid username and invalid password. 3. Click Login. | Error message: "Invalid credentials". | Pass |
+| TC01 | Verify user login with valid credentials | 1. Navigate to login page. 2. Enter valid username and password. 3. Click Login. | User is redirected to Inventory page. | Pass |
+| TC02 | Verify user login with invalid password | 1. Navigate to login page. 2. Enter valid username and invalid password. 3. Click Login. | Error message: "Epic sadface: Username and password do not match any user in this service". | Pass |
 
 ### Bug Report Sample
 **Bug ID**: BR001  
@@ -87,7 +88,7 @@ Tested an enterprise application for internal business processes, ensuring funct
 **Expected Result**: Display error message: "Invalid Shipment ID".  
 **Severity**: Critical  
 **Environment**: Web, Chrome v120  
-**Attachment**: [Screenshot](#) (dummy link)  
+**Attachment**: [Screenshot](#)
 
 ### Postman Collection Sample
 **Collection Name**: API Testing for Communication Platform  
